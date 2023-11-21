@@ -21,15 +21,15 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = ` 𝙏𝙃𝙀 𝙈𝙔𝙎𝙏𝙄𝘾 - 𝘽𝙊𝙏
+    const str = ` 51992621691
 
  ▢ *Hola,* ${taguser}
 
- ▢ *Prop.:* Bruno Sobrino
- ▢ *WA:* +5219992095479
- ▢ *Bot 1:* +5219991402134
- ▢ *Bot 2:* +5219993404349
- ▢ *PayPal:* paypal.me/TheShadowBrokers133
+ ▢ *Owner:* Aleizn
+ ▢ *Contacto:* Wa.me/+51992621691
+ ▢ *Creador:* +51992621691
+ ▢ *Vendedor:* +51992621691
+ ▢ *Ofc:* 
 
  ▢ *Fecha:* ${date}
  ▢ *Uptime:* ${uptime}
