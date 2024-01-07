@@ -57,7 +57,7 @@ let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
     ⫸🐬
     ⫸🐬
     
-    *DISEÑO CREADO POR ALEIZN-MD.  EL MEJOR BOT DE TODOS*`.trim()
+    *DISEÑO CREADO POR 𝗢𝘀𝗼 𝗕𝗼𝘁.  EL MEJOR BOT DE TODOS*`.trim()
 if (m.isGroup) {
 //await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, { type: 'audioMessage', ptt: true})
 let fkontak2 = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }  
